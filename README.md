@@ -1,29 +1,9 @@
-Seeed QTouch
+Grove - High Temperature Sensor
 -------------------------------------------------------------
 ![image](http://www.seeedstudio.com/wiki/images/3/33/Sidekick_19_0.png)
 
-LED Bar, common in volume display, is a common sensor component to display analog value. You can use a row of discrete LED lights to make division of this effect, you can also use our element mentioned here. 
+Thermocouples are very sensitive, requiring a good amplifier with a cold - compensation reference. The Grove - Temperature Sensor USES a K type thermocouple Temperature detection, with a Thermistor to detect The ambient Temperature as Temperature compensation. The detectable range of this Sensor is -50-600℃ , and The accuracy is ±(2.0% + 2℃)
 
-For more information, please refer to [Grove_LED_Bar][1]
-
-#Usage
-
-1. To judge certain key if touched
-
-    	unsigned char isTouch(int key)		// key- 0~6, if touched return 1
-
-2. Get touch state
-   
-   	bits 0 to 6 indicate which keys are in detection, if any. Touched keys report as 1, untouched or disabled
-    keys report as 0.
-
-		unsigned char getState()			// will touch state
-
-3. Get Touch Num
-
-		int touchNum();
-
-	if no touched, return -1. or will return the touched key number.
 
 ----
 This software is written by Loovee for seeed studio<br>
