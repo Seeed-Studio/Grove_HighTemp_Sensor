@@ -20,9 +20,4 @@ we integrate resources to serve new era of innovation. Seeed also works with <br
 global distributors and partners to push open hardware movement.<br>
 
 
-
-[1]:http://www.seeedstudio.com/wiki/LED_Bar
-
-
-
 [![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_LED_Bar)](https://github.com/igrigorik/ga-beacon)

@@ -102,9 +102,6 @@ float HighTemp::K_VtoT(float mV)
 
         for(i = 8; i >0; i--)
         value = mV * value + Var_VtoT_K[0][i-1];
-        
-        cout << "h1" << endl;
-        
     }
     else if(mV >= 0 && mV < 20.644)
     {
@@ -114,8 +111,6 @@ float HighTemp::K_VtoT(float mV)
         {
             value = mV * value + Var_VtoT_K[1][i-1];
         }
-        
-        cout << "h2" << endl;
     }
     else if(mV >= 20.644 && mV <= 54.900)
     {
@@ -123,8 +118,6 @@ float HighTemp::K_VtoT(float mV)
 
         for(i = 6; i >0; i--)
         value = mV * value + Var_VtoT_K[2][i-1];
-        
-        cout << "h3" << endl;
     }
 
     return value;
