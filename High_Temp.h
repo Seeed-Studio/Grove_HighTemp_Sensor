@@ -32,6 +32,7 @@ public:
     float getRoomTmp();                      // 
     float getThmc();
     
+    void begin();
 
 
 private:
