@@ -1,6 +1,6 @@
 Grove - High Temperature Sensor
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/wiki/images/3/33/Sidekick_19_0.png)
+![image](http://www.seeedstudio.com/depot/images/product/High%20Temperature%20Sensor.jpg)
 
 Thermocouples are very sensitive, requiring a good amplifier with a cold - compensation reference. The Grove - Temperature Sensor USES a K type thermocouple Temperature detection, with a Thermistor to detect The ambient Temperature as Temperature compensation. The detectable range of this Sensor is -50-600℃ , and The accuracy is ±(2.0% + 2℃)
 
