@@ -1,22 +1,23 @@
-LED_Bar	KEYWORD1
-Seeed_QTouch	KEYWORD1
-QTouch	KEYWORD1
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
 
-isTouch	KEYWORD2
-getState	KEYWORD2
-setLowPowerMode	KEYWORD2
-reset	KEYWORD2
-setMaxDuration	KEYWORD2
-calibrate	KEYWORD2
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
 
 
-ADDR_QTOUCH	KEYWORD3
-QTOUCH_REG_CHIPID	KEYWORD3
-QTOUCH_REG_VERSION	KEYWORD3
-QTOUCH_REG_DETSTATUS	KEYWORD3
-QTOUCH_REG_KEYSTATUS	KEYWORD3
-QTOUCH_REG_KEYSIGM	KEYWORD3
-QTOUCH_REG_LPMODE	KEYWORD3
-QTOUCH_REG_MAXDURA	KEYWORD3
-QTOUCH_REG_CALIBRATE	KEYWORD3
-QTOUCH_REG_RESET	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+HighTemp	KEYWORD2
+getRoomTmp	KEYWORD2
+getThmc	KEYWORD2
+begin	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
