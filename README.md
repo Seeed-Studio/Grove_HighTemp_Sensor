@@ -1,9 +1,15 @@
 Grove - High Temperature Sensor
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/depot/images/product/High%20Temperature%20Sensor.jpg)
+
+<img src=https://statics3.seeedstudio.com/product/High%20Temperature%20Sensor_02.jpg width=300><img src=https://statics3.seeedstudio.com/product/High%20Temperature%20Sensor_03.jpg width=300>
+
+<img src=https://statics3.seeedstudio.com/images/product/High%20Temperature%20Sensor.jpg width=400>
+
+[Grove - High Temperature Sensor](https://www.seeedstudio.com/Grove-High-Temperature-Sensor-p-1810.html)
 
 Thermocouples are very sensitive, requiring a good amplifier with a cold - compensation reference. The Grove - Temperature Sensor USES a K type thermocouple Temperature detection, with a Thermistor to detect The ambient Temperature as Temperature compensation. The detectable range of this Sensor is -50-600℃ , and The accuracy is ±(2.0% + 2℃)
 
+For more information please visit [wiki page](https://statics3.seeedstudio.com/product/High%20Temperature%20Sensor_03.jpg).
 
 ----
 This software is written by Loovee for seeed studio<br>
@@ -20,4 +26,4 @@ we integrate resources to serve new era of innovation. Seeed also works with <br
 global distributors and partners to push open hardware movement.<br>
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_LED_Bar)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_HighTemp_Sensor)](https://github.com/igrigorik/ga-beacon)
