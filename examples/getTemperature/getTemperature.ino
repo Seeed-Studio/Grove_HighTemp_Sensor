@@ -7,15 +7,13 @@
 
 HighTemp ht(A4, A5);
 
-void setup()
-{
+void setup() {
     Serial.begin(115200);
     Serial.println("grove - hight temperature sensor test demo");
     ht.begin();
 }
 
-void loop()
-{
+void loop() {
     Serial.println(ht.getThmc());
     delay(100);
 }
