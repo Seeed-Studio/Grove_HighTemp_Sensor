@@ -1,4 +1,4 @@
-Grove - High Temperature Sensor
+Grove - High Temperature Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_HighTemp_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_HighTemp_Sensor)
 -------------------------------------------------------------
 
 <img src=https://statics3.seeedstudio.com/product/High%20Temperature%20Sensor_02.jpg width=300><img src=https://statics3.seeedstudio.com/product/High%20Temperature%20Sensor_03.jpg width=300>
