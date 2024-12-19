@@ -2,10 +2,13 @@
 // Thmc -> A5
 // RoomTemp -> A4
 
+#ifdef USE_TINYUSB
+#include <Adafruit_TinyUSB.h>
+#endif
 
 #include "High_Temp.h"
 
-HighTemp ht(A4, A5);
+HighTemp ht(A0, A1);
 
 void setup() {
     Serial.begin(115200);
